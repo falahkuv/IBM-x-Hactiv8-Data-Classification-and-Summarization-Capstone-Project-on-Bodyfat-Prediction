@@ -1,7 +1,6 @@
 # IBM-x-Hactiv8-Data-Classification-and-Summarization-Capstone-Project-on-Bodyfat-Prediction
 Capstone Project for Minicourse 
 
-project_overview = f"""
 # Body Fat Analysis: Regression + Quartile Classification + Auto-Summarization
 
 ## Objective
